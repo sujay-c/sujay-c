@@ -1,7 +1,6 @@
 ## Hello! :wave:
 
-<!--
-sujay-c/sujay-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/sujaychebbi/).
+- 📫 How to reach me: Feel free to find me on [LinkedIn](https://www.linkedin.com/in/sujaychebbi/) and shoot me a message. I am usually open to making new connections as long as we have a few mutuals!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+sujay-c/sujay-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
