@@ -1,4 +1,4 @@
-## Hello! :wave:
+## Hello! :wave: :v:
 
 
 - 🔭 I’m currently working on pursuing a [Master of Science in Business Analytics](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) from the [McCombs School of Business](https://www.mccombs.utexas.edu/). Previously, I was employed at [ProLytX](https://www.prolytx.com), where I worked primarily on Piping & Instrumentation Diagrams (P&IDs) and general engineering design based around AutoCAD diagrams and spec sheets. It was unrelated to the career path I wanted to pursue, but I'm grateful for the opportunity for working there and gaining some kind of work experience at a small, burgeoning company at the intersection of Houston's IT and downstreem oil sectors. I completed a Bachelor of Science in Petroleum Engineering at Texas A&M University. At my heart, I am an Aggie, but I've come to love Austin and McCombs as it is!
