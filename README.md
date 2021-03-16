@@ -6,7 +6,7 @@
 
 - Feel free to find me on [LinkedIn](https://www.linkedin.com/in/sujaychebbi/) and shoot me a message. I am usually open to making new connections as long as we have a few mutuals!
 
-[![Sujay-c GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujay-c&theme=tokyonight)](https://github.com/sujay-c)
+[![Sujay-c GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujay-c&theme=tokyonight?count_private=true)](https://github.com/sujay-c)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-c&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
