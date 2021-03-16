@@ -1,7 +1,7 @@
 ## Hello! Thank you for stopping by. :v:
 
 [![Sujay-c GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujay-c&theme=tokyonight)](https://github.com/sujay-c)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-c&layout=default&theme=tokyonight)](https://github.com/sujay-c)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-c&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - My name is Sujay, and I’m currently working on pursuing a [Master of Science in Business Analytics](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) from the McCombs School of Business. You can find my resume [here](https://github.com/sujay-c/resume/blob/main/Sujay-Chebbi__Resume_.pdf).
 
