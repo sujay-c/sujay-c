@@ -6,7 +6,7 @@
 
 - 📫 Feel free to find me on [LinkedIn](https://www.linkedin.com/in/sujaychebbi/) and shoot me a message. I am usually open to making new connections as long as we have a few mutuals!
 
-If you've read or even skimmed to the bottom to see this message, I wanted to thank you warmly for taking the time out of your day to read the ramblings of a 20-something.
+If you've read or even skimmed to the bottom to see this message, thank you!
 
 <!--
 sujay-c/sujay-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
