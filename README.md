@@ -1,13 +1,13 @@
 ## Hello! Thank you for stopping by. :v:
 
-[![Sujay-c GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujay-c&theme=tokyonight)](https://github.com/sujay-c)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-c&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 - My name is Sujay, and I’m currently working on pursuing a [Master of Science in Business Analytics](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) from the McCombs School of Business. You can find my resume [here](https://github.com/sujay-c/resume/blob/main/Sujay-Chebbi__Resume_.pdf).
 
 - Ask me about (fantasy) basketball, movies, TV shows, music, fintech, the (US) stock market, pop science, and really anything in general!
 
 - Feel free to find me on [LinkedIn](https://www.linkedin.com/in/sujaychebbi/) and shoot me a message. I am usually open to making new connections as long as we have a few mutuals!
+
+[![Sujay-c GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujay-c&theme=tokyonight)](https://github.com/sujay-c)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-c&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 sujay-c/sujay-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
