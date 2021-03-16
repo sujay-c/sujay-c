@@ -1,12 +1,12 @@
 ## Hello! Thank you for stopping by. :v:
 
-- 🔭 - My name is Sujay Chebbi, and I’m currently working on pursuing a [Master of Science in Business Analytics](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) from the McCombs School of Business.
+- My name is Sujay Chebbi, and I’m currently working on pursuing a [Master of Science in Business Analytics](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) from the McCombs School of Business.
 
 - Previously, I was employed at [ProLytX](https://www.prolytx.com), where I worked primarily on Piping & Instrumentation Diagrams (P&IDs) and general engineering design based around AutoCAD diagrams and spec sheets. It was unrelated to the career path I wanted to pursue, but I'm grateful for the opportunity for working there and gaining some kind of work experience at a small, burgeoning company at the intersection of Houston's IT and downstreem oil sectors. I completed a Bachelor of Science in Petroleum Engineering at Texas A&M University. At my heart, I am an Aggie, but I've come to love Austin and McCombs as it is!
 
-- 💬 Ask me about (fantasy) basketball, movies, TV shows, music, fintech, the (US) stock market, pop science, and really anything in general!
+- Ask me about (fantasy) basketball, movies, TV shows, music, fintech, the (US) stock market, pop science, and really anything in general!
 
-- 📫 Feel free to find me on [LinkedIn](https://www.linkedin.com/in/sujaychebbi/) and shoot me a message. I am usually open to making new connections as long as we have a few mutuals!
+- Feel free to find me on [LinkedIn](https://www.linkedin.com/in/sujaychebbi/) and shoot me a message. I am usually open to making new connections as long as we have a few mutuals!
 
 If you've read or even skimmed to the bottom to see this message, thank you!
 
